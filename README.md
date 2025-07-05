@@ -1,4 +1,4 @@
-### Hi there 👋
+### hullo, my name is James and I am a rising Senior studying computer science at UCLA. Currently I'm working on a LoL overlay for MacOS. Learning lots about Swift in the process :D
 
 <!--
 **jameswang08/jameswang08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
