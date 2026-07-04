@@ -1,4 +1,4 @@
-### Hi! My name is James Wang, I am currently a senior at UCLA studying computer science.
+### minion
 
 <!--
 **jameswang08/jameswang08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
